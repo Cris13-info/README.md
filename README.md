@@ -6,6 +6,6 @@ Las integrantes:
 Cristal - Product Owner
 <img width="760" height="380" alt="image" src="https://github.com/user-attachments/assets/292851c7-40b3-4550-a63b-e8b742ccefe7" />
 Yhoali SM
-<img src=
+
 Valeria ST
-<img src=https://share.google/images/mq1iFOooayZxpXLf5
+<img width="760" height="380" alt="image" src=https://share.google/images/mq1iFOooayZxpXLf5
